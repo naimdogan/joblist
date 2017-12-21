@@ -14,9 +14,9 @@
       "townName": "Çengelköy Mahallesi"
     },
     {
-        "jobId": "A71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Gerber Operatörü",
-        "companyName": "Cafe 1",
+        "jobId": "B71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Servis Elemanı",
+        "companyName": "Sturbucks",
         "durationDay": 0,
         "durationDayText": "Taze çıktı!",
         "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
@@ -27,9 +27,9 @@
         "townName": "Çengelköy Mahallesi"
       },
       {
-        "jobId": "A71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Gerber Operatörü",
-        "companyName": "Cafe 1",
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Satış Uzmanı",
+        "companyName": "Adidas Shop",
         "durationDay": 0,
         "durationDayText": "Taze çıktı!",
         "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
@@ -66,30 +66,52 @@
       }
     },
     {
-        "jobId": "A71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Gerber Operatörü",
-        "companyName": "Cafe 1",
+        "jobId": "B71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Servis Elemanı",
+        "companyName": "Sturbucks",
         "durationDay": 0,
         "durationDayText": "Taze çıktı!",
         "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
         "distance": "8,53 km yakınında",
+        "cityName": "İstanbul",
+        "townName": "Çengelköy Mahallesi",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
         "latitude": 41.050968170166023,
         "longitude": 29.062856674194339,
-        "cityName": "İstanbul",
-        "townName": "Çengelköy Mahallesi"
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
       },
       {
-        "jobId": "A71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Gerber Operatörü",
-        "companyName": "Cafe 1",
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Satış Uzmanı",
+        "companyName": "Adidas Shop",
         "durationDay": 0,
         "durationDayText": "Taze çıktı!",
         "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
         "distance": "8,53 km yakınında",
+        "cityName": "İstanbul",
+        "townName": "Çengelköy Mahallesi",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
         "latitude": 41.050968170166023,
         "longitude": 29.062856674194339,
-        "cityName": "İstanbul",
-        "townName": "Çengelköy Mahallesi"
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
       }
   ]
 }
