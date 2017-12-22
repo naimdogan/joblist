@@ -1,4 +1,18 @@
 {
+  "City": [
+    {
+      "cityId": 0,
+      "cityName": "İstanbul"
+    },
+    {
+        "cityId": 1,
+        "cityName": "Antalya"
+      },
+      {
+        "cityId": 2,
+        "cityName": "Rize"
+      }
+  ],
   "Items": [
     {
       "jobId": "A71CD1954BA149BCAF42B25F775EA4FB",
@@ -10,6 +24,7 @@
       "distance": "8,53 km yakınında",
       "latitude": 41.050968170166023,
       "longitude": 29.062856674194339,
+      "cityId": 0,
       "cityName": "Antalya",
       "townName": "Çengelköy Mahallesi"
     },
@@ -23,6 +38,7 @@
         "distance": "8,53 km yakınında",
         "latitude": 41.050968170166023,
         "longitude": 29.062856674194339,
+        "cityId": 1,
         "cityName": "Rize",
         "townName": "Çengelköy Mahallesi"
       },
@@ -36,6 +52,7 @@
         "distance": "8,53 km yakınında",
         "latitude": 41.050968170166023,
         "longitude": 29.062856674194339,
+        "cityId": 2,
         "cityName": "İstanbul",
         "townName": "Çengelköy Mahallesi"
       }
