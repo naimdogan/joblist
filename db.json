@@ -21,7 +21,7 @@
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
       "imageUrl":
-        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "http://via.placeholder.com/250x250",
       "distance": "8,53 km yakınında",
       "latitude": 41.050968170166023,
       "longitude": 29.062856674194339,
@@ -36,7 +36,7 @@
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
       "imageUrl":
-        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "http://via.placeholder.com/250x250",
       "distance": "8,53 km yakınında",
       "latitude": 41.050968170166023,
       "longitude": 29.062856674194339,
@@ -51,7 +51,7 @@
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
       "imageUrl":
-        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "http://via.placeholder.com/250x250",
       "distance": "8,53 km yakınında",
       "latitude": 41.050968170166023,
       "longitude": 29.062856674194339,
@@ -60,32 +60,19 @@
       "townName": "Çengelköy Mahallesi"
     },
     {
-      "JobId": "910488B13E47471FAEFB0A3377A83926",
-      "PositionName": "Kargo Operatörü",
-      "CompanyName": "ÇELİKTEPE YURTİÇİ  KARGO",
-      "DurationDay": 0,
-      "DurationDayText": "Taze çıktı!",
-      "ImageUrl":
-        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/8856920171224013757731.jpg",
-      "Distance": "8,8 km",
-      "Latitude": 41.0848552,
-      "Longitude": 29.004833299999998,
-      "CityName": "İstanbul",
-      "TownName": "Kağıthane"
-    },
-    {
-      "JobId": "221114B2B2154B3E98ADBA28284F88E0",
-      "PositionName": "Asistan",
-      "CompanyName": "Basari Erkek Yurdu",
-      "DurationDay": 0,
-      "DurationDayText": "Taze çıktı!",
-      "ImageUrl":
-        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/12166020171224013619090.jpg",
-      "Distance": "22,32 km",
-      "Latitude": 40.999503000000004,
-      "Longitude": 28.712651,
-      "CityName": "İstanbul",
-      "TownName": "Avcılar"
+      "jobId": "D71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Kamyoncu",
+      "companyName": "TIR SAN",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":
+        "http://via.placeholder.com/250x250",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "cityId": 2,
+      "cityName": "Trabzon",
+      "townName": "Merkez"
     }
   ],
   "Details": [
@@ -96,7 +83,7 @@
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
       "imageUrl":
-        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "http://via.placeholder.com/600x600",
       "distance": "8,53 km yakınında",
       "cityName": "Antalya",
       "townName": "Çengelköy Mahallesi",
@@ -122,7 +109,7 @@
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
       "imageUrl":
-        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "http://via.placeholder.com/600x600",
       "distance": "8,53 km yakınında",
       "cityName": "Rize",
       "townName": "Çengelköy Mahallesi",
@@ -148,7 +135,7 @@
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
       "imageUrl":
-        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "http://via.placeholder.com/600x600",
       "distance": "8,53 km yakınında",
       "cityName": "İstanbul",
       "townName": "Çengelköy Mahallesi",
@@ -168,18 +155,16 @@
       }
     },
     {
-      "JobId": "910488B13E47471FAEFB0A3377A83926",
-      "PositionName": "Kargo Operatörü",
-      "CompanyName": "ÇELİKTEPE YURTİÇİ  KARGO",
-      "DurationDay": 0,
-      "DurationDayText": "Taze çıktı!",
-      "ImageUrl":
-        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/8856920171224013757731.jpg",
-      "Distance": "8,8 km",
-      "Latitude": 41.0848552,
-      "Longitude": 29.004833299999998,
-      "CityName": "İstanbul",
-      "TownName": "Kağıthane",
+      "jobId": "D71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Kamyoncu",
+      "companyName": "TIR SAN",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":
+        "http://via.placeholder.com/600x600",
+      "distance": "8,53 km yakınında",
+      "cityName": "Trabzon",
+      "townName": "Merkez",
       "address":
         "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
       "postalCode": 34768,
@@ -194,34 +179,6 @@
         "areaCode": "879",
         "number": "9797979"
       }
-    },
-    {
-      "JobId": "221114B2B2154B3E98ADBA28284F88E0",
-      "PositionName": "Asistan",
-      "CompanyName": "Basari Erkek Yurdu",
-      "DurationDay": 0,
-      "DurationDayText": "Taze çıktı!",
-      "ImageUrl":
-        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/12166020171224013619090.jpg",
-      "Distance": "22,32 km",
-      "Latitude": 40.999503000000004,
-      "Longitude": 28.712651,
-      "CityName": "İstanbul",
-      "TownName": "Avcılar",
-      "address":
-      "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
-    "postalCode": 34768,
-    "hasLatitude": true,
-    "hasLongitude": true,
-    "latitude": 41.050968170166023,
-    "longitude": 29.062856674194339,
-    "description": "syovsvyosvyoyvsoby",
-    "status": 1,
-    "contactPhone": {
-      "countryCallingCode": "+90",
-      "areaCode": "879",
-      "number": "9797979"
-    }
     }
   ]
 }
