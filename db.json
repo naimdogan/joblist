@@ -5,13 +5,13 @@
       "cityName": "İstanbul"
     },
     {
-        "cityId": 1,
-        "cityName": "Antalya"
-      },
-      {
-        "cityId": 2,
-        "cityName": "Rize"
-      }
+      "cityId": 1,
+      "cityName": "Antalya"
+    },
+    {
+      "cityId": 2,
+      "cityName": "Rize"
+    }
   ],
   "Items": [
     {
@@ -20,7 +20,8 @@
       "companyName": "Cafe 1",
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
-      "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "imageUrl":
+        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
       "distance": "8,53 km yakınında",
       "latitude": 41.050968170166023,
       "longitude": 29.062856674194339,
@@ -29,33 +30,63 @@
       "townName": "Çengelköy Mahallesi"
     },
     {
-        "jobId": "B71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Servis Elemanı",
-        "companyName": "Sturbucks",
-        "durationDay": 0,
-        "durationDayText": "Taze çıktı!",
-        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
-        "distance": "8,53 km yakınında",
-        "latitude": 41.050968170166023,
-        "longitude": 29.062856674194339,
-        "cityId": 1,
-        "cityName": "Rize",
-        "townName": "Çengelköy Mahallesi"
-      },
-      {
-        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Satış Uzmanı",
-        "companyName": "Adidas Shop",
-        "durationDay": 0,
-        "durationDayText": "Taze çıktı!",
-        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
-        "distance": "8,53 km yakınında",
-        "latitude": 41.050968170166023,
-        "longitude": 29.062856674194339,
-        "cityId": 2,
-        "cityName": "İstanbul",
-        "townName": "Çengelköy Mahallesi"
-      }
+      "jobId": "B71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Servis Elemanı",
+      "companyName": "Sturbucks",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":
+        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "cityId": 1,
+      "cityName": "Rize",
+      "townName": "Çengelköy Mahallesi"
+    },
+    {
+      "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Satış Uzmanı",
+      "companyName": "Adidas Shop",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":
+        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "cityId": 2,
+      "cityName": "İstanbul",
+      "townName": "Çengelköy Mahallesi"
+    },
+    {
+      "JobId": "910488B13E47471FAEFB0A3377A83926",
+      "PositionName": "Kargo Operatörü",
+      "CompanyName": "ÇELİKTEPE YURTİÇİ  KARGO",
+      "DurationDay": 0,
+      "DurationDayText": "Taze çıktı!",
+      "ImageUrl":
+        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/8856920171224013757731.jpg",
+      "Distance": "8,8 km",
+      "Latitude": 41.0848552,
+      "Longitude": 29.004833299999998,
+      "CityName": "İstanbul",
+      "TownName": "Kağıthane"
+    },
+    {
+      "JobId": "221114B2B2154B3E98ADBA28284F88E0",
+      "PositionName": "Asistan",
+      "CompanyName": "Basari Erkek Yurdu",
+      "DurationDay": 0,
+      "DurationDayText": "Taze çıktı!",
+      "ImageUrl":
+        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/12166020171224013619090.jpg",
+      "Distance": "22,32 km",
+      "Latitude": 40.999503000000004,
+      "Longitude": 28.712651,
+      "CityName": "İstanbul",
+      "TownName": "Avcılar"
+    }
   ],
   "Details": [
     {
@@ -64,11 +95,13 @@
       "companyName": "Cafe 1",
       "durationDay": 0,
       "durationDayText": "Taze çıktı!",
-      "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "imageUrl":
+        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
       "distance": "8,53 km yakınında",
       "cityName": "Antalya",
       "townName": "Çengelköy Mahallesi",
-      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+      "address":
+        "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
       "postalCode": 34768,
       "hasLatitude": true,
       "hasLongitude": true,
@@ -83,52 +116,112 @@
       }
     },
     {
-        "jobId": "B71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Servis Elemanı",
-        "companyName": "Sturbucks",
-        "durationDay": 0,
-        "durationDayText": "Taze çıktı!",
-        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
-        "distance": "8,53 km yakınında",
-        "cityName": "Rize",
-        "townName": "Çengelköy Mahallesi",
-        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
-        "postalCode": 34768,
-        "hasLatitude": true,
-        "hasLongitude": true,
-        "latitude": 41.050968170166023,
-        "longitude": 29.062856674194339,
-        "description": "syovsvyosvyoyvsoby",
-        "status": 1,
-        "contactPhone": {
-          "countryCallingCode": "+90",
-          "areaCode": "879",
-          "number": "9797979"
-        }
-      },
-      {
-        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
-        "positionName": "Satış Uzmanı",
-        "companyName": "Adidas Shop",
-        "durationDay": 0,
-        "durationDayText": "Taze çıktı!",
-        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
-        "distance": "8,53 km yakınında",
-        "cityName": "İstanbul",
-        "townName": "Çengelköy Mahallesi",
-        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
-        "postalCode": 34768,
-        "hasLatitude": true,
-        "hasLongitude": true,
-        "latitude": 41.050968170166023,
-        "longitude": 29.062856674194339,
-        "description": "syovsvyosvyoyvsoby",
-        "status": 1,
-        "contactPhone": {
-          "countryCallingCode": "+90",
-          "areaCode": "879",
-          "number": "9797979"
-        }
+      "jobId": "B71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Servis Elemanı",
+      "companyName": "Sturbucks",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":
+        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance": "8,53 km yakınında",
+      "cityName": "Rize",
+      "townName": "Çengelköy Mahallesi",
+      "address":
+        "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+      "postalCode": 34768,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "description": "syovsvyosvyoyvsoby",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
       }
+    },
+    {
+      "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Satış Uzmanı",
+      "companyName": "Adidas Shop",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":
+        "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance": "8,53 km yakınında",
+      "cityName": "İstanbul",
+      "townName": "Çengelköy Mahallesi",
+      "address":
+        "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+      "postalCode": 34768,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "description": "syovsvyosvyoyvsoby",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+      }
+    },
+    {
+      "JobId": "910488B13E47471FAEFB0A3377A83926",
+      "PositionName": "Kargo Operatörü",
+      "CompanyName": "ÇELİKTEPE YURTİÇİ  KARGO",
+      "DurationDay": 0,
+      "DurationDayText": "Taze çıktı!",
+      "ImageUrl":
+        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/8856920171224013757731.jpg",
+      "Distance": "8,8 km",
+      "Latitude": 41.0848552,
+      "Longitude": 29.004833299999998,
+      "CityName": "İstanbul",
+      "TownName": "Kağıthane",
+      "address":
+        "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+      "postalCode": 34768,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "description": "syovsvyosvyoyvsoby",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+      }
+    },
+    {
+      "JobId": "221114B2B2154B3E98ADBA28284F88E0",
+      "PositionName": "Asistan",
+      "CompanyName": "Basari Erkek Yurdu",
+      "DurationDay": 0,
+      "DurationDayText": "Taze çıktı!",
+      "ImageUrl":
+        "https://upload-isinolsun-com.mncdn.com/company/job/2017/12/24/12166020171224013619090.jpg",
+      "Distance": "22,32 km",
+      "Latitude": 40.999503000000004,
+      "Longitude": 28.712651,
+      "CityName": "İstanbul",
+      "TownName": "Avcılar",
+      "address":
+      "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+    "postalCode": 34768,
+    "hasLatitude": true,
+    "hasLongitude": true,
+    "latitude": 41.050968170166023,
+    "longitude": 29.062856674194339,
+    "description": "syovsvyosvyoyvsoby",
+    "status": 1,
+    "contactPhone": {
+      "countryCallingCode": "+90",
+      "areaCode": "879",
+      "number": "9797979"
+    }
+    }
   ]
 }
